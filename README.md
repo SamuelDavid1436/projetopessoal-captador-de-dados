@@ -66,8 +66,8 @@ Também é necessário acesso à internet, à URL do CRM da empresa (incluindo o
 ### Opção 2 — Rodar a partir do código-fonte (desenvolvimento)
 
 ```bash
-git clone https://github.com/SamuelDavid1436/Automacao_Capturar_Dados.git
-cd Automacao_Capturar_Dados
+git clone https://github.com/SamuelDavid1436/projetopessoal-captador-de-dados.git
+cd projetopessoal-captador-de-dados
 pip install -r requisitos.txt
 python Captador_de_Dados_CRM.py
 ```
